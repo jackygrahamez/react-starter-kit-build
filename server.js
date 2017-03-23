@@ -1164,7 +1164,7 @@ var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" &
 // import logoUrl from './logo-small.png';
 // import logoUrl2x from './logo-small@2x.png';
 
-var _ref = _jsx('h1', {}, void 0, 'Intro test');
+var _ref = _jsx('h1', {}, void 0, 'Intro test blah');
 
 function Intro(props) {
   return _jsx('div', {
