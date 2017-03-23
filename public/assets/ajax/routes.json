@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "result": [{
+    "path": "/",
+    "children": [{
+        "path": "/",
+        "json-path": "/assets/ajax/home.json"
+      },
+      {
+        "path": "/contact"
+      },
+      {
+        "path": "/login"
+      },
+      {
+        "path": "/register"
+      },
+      {
+        "path": "/about"
+      },
+      {
+        "path": "/privacy"
+      },
+      {
+        "path": "/admin"
+      },
+      {
+        "path": "*"
+      }
+    ]
+  }]
+
+}
